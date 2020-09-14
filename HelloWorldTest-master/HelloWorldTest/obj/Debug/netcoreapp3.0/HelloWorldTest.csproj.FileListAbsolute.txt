@@ -1,0 +1,11 @@
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/bin/Debug/netcoreapp3.0/HelloWorldTest
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/bin/Debug/netcoreapp3.0/HelloWorldTest.deps.json
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/bin/Debug/netcoreapp3.0/HelloWorldTest.runtimeconfig.json
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/bin/Debug/netcoreapp3.0/HelloWorldTest.runtimeconfig.dev.json
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/bin/Debug/netcoreapp3.0/HelloWorldTest.dll
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/bin/Debug/netcoreapp3.0/HelloWorldTest.pdb
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/obj/Debug/netcoreapp3.0/HelloWorldTest.csprojAssemblyReference.cache
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/obj/Debug/netcoreapp3.0/HelloWorldTest.AssemblyInfoInputs.cache
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/obj/Debug/netcoreapp3.0/HelloWorldTest.AssemblyInfo.cs
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/obj/Debug/netcoreapp3.0/HelloWorldTest.dll
+/Users/admin/Projects/HelloWorldTest/HelloWorldTest/obj/Debug/netcoreapp3.0/HelloWorldTest.pdb
