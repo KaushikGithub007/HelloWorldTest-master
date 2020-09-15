@@ -9,3 +9,16 @@
 /Users/admin/Projects/HelloWorldTest/HelloWorldTest/obj/Debug/netcoreapp3.0/HelloWorldTest.AssemblyInfo.cs
 /Users/admin/Projects/HelloWorldTest/HelloWorldTest/obj/Debug/netcoreapp3.0/HelloWorldTest.dll
 /Users/admin/Projects/HelloWorldTest/HelloWorldTest/obj/Debug/netcoreapp3.0/HelloWorldTest.pdb
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\bin\Debug\netcoreapp3.0\HelloWorldTest.exe
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\bin\Debug\netcoreapp3.0\HelloWorldTest.deps.json
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\bin\Debug\netcoreapp3.0\HelloWorldTest.runtimeconfig.json
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\bin\Debug\netcoreapp3.0\HelloWorldTest.runtimeconfig.dev.json
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\bin\Debug\netcoreapp3.0\HelloWorldTest.dll
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\bin\Debug\netcoreapp3.0\HelloWorldTest.pdb
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\obj\Debug\netcoreapp3.0\HelloWorldTest.csprojAssemblyReference.cache
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\obj\Debug\netcoreapp3.0\HelloWorldTest.AssemblyInfoInputs.cache
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\obj\Debug\netcoreapp3.0\HelloWorldTest.AssemblyInfo.cs
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\obj\Debug\netcoreapp3.0\HelloWorldTest.csproj.CoreCompileInputs.cache
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\obj\Debug\netcoreapp3.0\HelloWorldTest.dll
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\obj\Debug\netcoreapp3.0\HelloWorldTest.pdb
+C:\Users\kaush\source\repos\KaushikGithub007\HelloWorldTest-master\HelloWorldTest-master\HelloWorldTest\obj\Debug\netcoreapp3.0\HelloWorldTest.genruntimeconfig.cache
